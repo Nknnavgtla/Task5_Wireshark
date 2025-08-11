@@ -38,19 +38,6 @@ Here’s the formatted version:
 
 ---
 
-````markdown
-# Wireshark Packet Capture - Task 5
-
-## First Time Boot into Kali Linux
-This was my first time booting into **Kali Linux**, and I was a bit confused at first.  
-I visited the Kali Linux documentation and then searched in Firefox for "Wireshark in Linux."  
-It gave me the following installation commands:
-
-```bash
-sudo apt update
-sudo apt install wireshark
-````
-
 I opened a terminal, typed these commands, and successfully installed Wireshark.
 
 ---
